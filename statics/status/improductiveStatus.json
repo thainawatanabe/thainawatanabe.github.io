@@ -1,0 +1,18 @@
+[
+    {
+        "project": "Stone",
+        "status": ["Cliente ausente", "Cliente mudou", "Equipamento coletado por terceiros"]
+    },
+    {
+        "project": "VIVO",
+        "status": ["Cliente ausente", "Cliente mudou", "Equipamento coletado por terceiros"]
+    },
+    {
+        "project": "Copel",
+        "status": ["Cliente ausente", "Cliente mudou", "Equipamento coletado por terceiros"]
+    },
+    {
+        "project": "TIM",
+        "status": ["Cliente ausente", "Cliente mudou", "Equipamento coletado por terceiros"]
+    }
+]
